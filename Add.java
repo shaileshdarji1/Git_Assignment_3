@@ -12,8 +12,8 @@ b=sc.nextInt();
 c=addition(a,b);
 System.out.println(" Addition of two numbers is : "+c);
 }
-static int addition(int x,int y)
+static int addition(int p,int q)
 {
-	return x+y;
+	return p+q;
 }
 }
